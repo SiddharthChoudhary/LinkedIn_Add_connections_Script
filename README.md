@@ -16,5 +16,9 @@ Once you have that, you can run the script there.
 
 The script is still under development phase.
 Things to do:-
+
 1.) In case of a connection require emailId
+
 2.) Sometimes script might not run, so to make it run we need to reload it
+
+3.) Functionality for pagination as well, so that it automatically clicks next item in the pagination array
