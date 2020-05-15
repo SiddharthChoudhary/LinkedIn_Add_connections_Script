@@ -1,5 +1,5 @@
 # LinkedIn_Add_connections_Script
-This script can be used to grow targeted network connections. It can connect to to your connections on the given page.
+This script can be used to grow targeted network connections. It can help you connect to your targeted companies' connections. 
 
 Add the script in your console tab in Inspect element, and run it. And see the magic.
 Remember:- 
